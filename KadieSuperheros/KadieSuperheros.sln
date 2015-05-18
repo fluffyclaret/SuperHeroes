@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KadieSuperheros", "KadieSuperheros.csproj", "{F5A9EC5C-B70B-48C3-801B-A59B0375DD3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A9EC5C-B70B-48C3-801B-A59B0375DD3E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F5A9EC5C-B70B-48C3-801B-A59B0375DD3E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F5A9EC5C-B70B-48C3-801B-A59B0375DD3E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F5A9EC5C-B70B-48C3-801B-A59B0375DD3E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F5A9EC5C-B70B-48C3-801B-A59B0375DD3E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F5A9EC5C-B70B-48C3-801B-A59B0375DD3E}.Release|iPhone.Build.0 = Release|iPhone
+		{F5A9EC5C-B70B-48C3-801B-A59B0375DD3E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F5A9EC5C-B70B-48C3-801B-A59B0375DD3E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
